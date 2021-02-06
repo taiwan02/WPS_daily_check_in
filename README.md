@@ -20,7 +20,7 @@ WPS 有一个免费领会员的活动，关注微信小程序“我的WPS会员�
 3. 在 Fork 完的该项目页面中，点击上方 Actions，开启workflow
 4. 点击文件 WPS_accept_invitation.py。将第一行 'invite_userid =' 后面的数字改成自己的会员 ID，保存修改即可
 
-
+   
 # 其它
 - 该项目基于 GitHub Action 功能实现
 
